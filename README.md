@@ -14,10 +14,10 @@
 
 > [REALISM Discord Bots](https://discord.gg/scr)
 >   Maintaining 2 bots made for the smooth operation of a group with around 500 members.
->      **REALISM** ROBLOX hub system, moderation, staff payment management and manual verification system.
+>   -   **REALISM** ROBLOX hub system, moderation, staff payment management and manual verification system.
 >         - Technologies used: **express.js**, **axios**, [**Discord.js**](https://discord.js.org/), [**MongoDB**](https://mongodb.com)
 >         
->      **REALISM ASSISTANCE** A self hosted version of [modmail](https://github.com/kyb3r/modmail).
+>   -   **REALISM ASSISTANCE** A self hosted version of [modmail](https://github.com/kyb3r/modmail).
 
 
 > [Aerolineas Argentinas Discord Bot](https://discord.gg/scr)
