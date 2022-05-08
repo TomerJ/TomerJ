@@ -1,4 +1,4 @@
-![Metrics](https://github.com/TomerJ/JiveOff/raw/main/github-metrics.svg)
+![Metrics](https://github.com/TomerJ/TomerJ/raw/main/github-metrics.svg)
 
 ## Hi! 👋
 
