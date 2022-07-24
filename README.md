@@ -22,3 +22,16 @@
 
 > [Aerolineas Argentinas Discord Bot](https://discord.gg/vWDaE2ntbg)
 > Technologies used: **express.js**, **axios**, [**Discord.js**](https://discord.js.org/), [**MongoDB**](https://mongodb.com), [**Landon / RoAviation Flights**](https://discord.gg/qcg7UYvCAT)
+
+### Tech Stack
+<p float="left">
+  
+  <img src="https://imgur.com/a/oQRUY3H" width="100" /> 
+  <img src="https://imgur.com/a/E1GUFyC" width="100" /> 
+  <img src="https://imgur.com/a/T3XhzB0" width="100" />
+  <img src="https://imgur.com/a/TiVhkwP" width="100" />
+</p>
+
+### Contact
+> - **Discord -** TomerTheGreat#4754
+> - **Twitter -** [@TomerGreat](https://twitter.com/TomerGreat)
