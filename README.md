@@ -23,19 +23,25 @@
 > [Aerolineas Argentinas Discord Bot](https://discord.gg/vWDaE2ntbg)
 > Technologies used: **express.js**, **axios**, [**Discord.js**](https://discord.js.org/), [**MongoDB**](https://mongodb.com), [**Landon / RoAviation Flights**](https://discord.gg/qcg7UYvCAT)
 
-### 🖥️ Tech Stack
+### 🖥️ My Knowledge
 
 **Backend:**
 >  - Express.js
 >  - Node.js
+>  - Express.js
+>  - Axios
 
 **Database:**
 >  - MongoDB
 >  - Redis
+>  - MySQL
 
 **Frontend:**
 >  - Vue.js
 >  - Tailwindcss
+>  - Javascript
+>  - HTML
+>  - jQuery
 
 ### Contact
 > - **Discord -** TomerTheGreat#4754
